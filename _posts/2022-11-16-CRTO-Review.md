@@ -36,13 +36,13 @@ That being said the environment has the potential to be very unstable, things th
 
 I found the following guides helpful when going through the labs and recommend taking a look at them.
 
--[Harmjoy cheatsheets](https://github.com/HarmJ0y/CheatSheets)
+* [Harmjoy cheatsheets](https://github.com/HarmJ0y/CheatSheets)
 
--[PowerUpSQL Cheat sheet](https://github.com/NetSPI/PowerUpSQL/wiki/PowerUpSQL-Cheat-Sheet)
+* [PowerUpSQL Cheat sheet](https://github.com/NetSPI/PowerUpSQL/wiki/PowerUpSQL-Cheat-Sheet)
 
--[Rubeus Guide](https://github.com/GhostPack/Rubeus)
+* [Rubeus Guide](https://github.com/GhostPack/Rubeus)
 
--[Cobalt Strike Cheatsheets](https://github.com/S1ckB0y1337/Cobalt-Strike-CheatSheet)
+* [Cobalt Strike Cheatsheets](https://github.com/S1ckB0y1337/Cobalt-Strike-CheatSheet)
 
 
 ## Conclusion:
