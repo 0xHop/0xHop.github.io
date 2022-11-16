@@ -25,7 +25,7 @@ I felt the quality of the course was very good.  Some sections have videos with 
 
 The exam gets scheduled through Snap Labs as an event and can be scheduled on [this](https://training.zeropointsecurity.co.uk/pages/red-team-ops-exam) page.  This section on the bottom of the page is not a png and actually how you schedule the exam which admittedly tripped me up.
 
-<img src="https://0xhop.github.io/images/CRTO/Register.PNG">
+<img src="https://0xhop.github.io/images/CRTO/Register.png">
 
 The exam consists of an environment similar to the labs where a student is expected to collect labs on Administrator Desktops throughout a network.  6/8 flags are required for a passing score.  48 hours of the VMs powering on or a full four (4) days are the allotted time limits for the exam.  So, if an exam is scheduled on noon Friday, it will last 48 hours of the environment being powered on or until Tuesday at noon.  The exam can be powered off for extended breaks such as sleep which is amazing.  I wish other certification providers did this as well as it's the only time in my professional career I didn't feel like I was being punished for sleeping for 9 hours.  The exam is very straightforward and I was never in a position where I didn't know what to do.  Not to say it was easy, just straightforward.  
 
